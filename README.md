@@ -1,10 +1,13 @@
 ## About Me 👋
 
-I'm a software engineer with 3 years of experience working in the restaurant tech industry.  I've also had an additional 8 years of experience as a civil engineer, giving me deep experience with the construction and land development industries.  
-
-I'm always pushing my boundaries and learning new things, setting goals and working towards them to reach ever higher milestones. 
-
-Contact me and follow my journey using the links below!
+<p align="center" width="100%">
+    <img src="./READMEimages/personalityCard.mp4" width=400> 
+    <p align="left" width="65%">
+        I'm a software engineer with 3 years of experience working in the restaurant tech industry.  I've also had an additional 8 years of experience as a civil engineer, giving me deep experience with the construction and land development industries.
+        I'm always pushing my boundaries and learning new things, setting goals and working towards them to reach ever higher milestones.
+        Contact me and follow my journey using the links below!
+    </p>
+</p>
 
 <p align="center" width="100%">
     <a href="https://www.linkedin.com/in/robert-czajka2">
@@ -18,14 +21,14 @@ Contact me and follow my journey using the links below!
     </a>
 </p>
 
-## Tech
+## Tech 💻
 
 **Front End:** JavaScript, Typescript, React, GraphQL, CSS, HTML5, Tailwind <br />
 **Back End:** Kotlin, Java, SQL, DynamoDB, Gradle <br />
 **Testing:** JUnit, Jest <br />
 **Developer Tools:** Git, Jira, DataDog, OpsGenie, FireHydrant, Splunk, Postman, SonarQube
 
-## GitHub Stats
+## GitHub Stats 📈
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=Robchike9290&show_icons=true&theme=dracula&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robchike9290&theme=dracula)](https://github.com/Robchike9290/github-readme-stats)
