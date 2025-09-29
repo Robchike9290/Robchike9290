@@ -7,13 +7,13 @@ I'm always pushing my boundaries and learning new things, setting goals and work
 Contact me and follow my journey using the links below!
 
 <p align="center" width="100%">
-    <a href="https://www.linkedin.com/in/yellowstrings">
+    <a href="https://www.linkedin.com/in/Robchike9290">
           <img src="./READMEimages/linkedin_logo_icon.svg" alt="LinkedIn" width=150 height=50 > 
     </a>
-    <a href="mailto:anisahmajeed4@gmail.com">
-      <img src="./READMEimages/email_envelope_gmail_letter_logo_icon.svg" alt="Gmail" width="150" height="50" />
+    <a href="mailto:robchike9290@gmail.com">
+      <img src="./READMEimages/communication_email_letter_mail_message_icon.svg" alt="Gmail" width="150" height="50" />
     </a>
-    <a href="https://github.com/yellowstrings?tab=followers">
+    <a href="https://github.com/robchike9290?tab=followers">
       <img src="./READMEimages/github_logo_icon.svg" alt="Follow Me on GitHub" width="150" height="50" />
     </a>
 </p>
@@ -21,7 +21,7 @@ Contact me and follow my journey using the links below!
 ## Tech
 
 **Front End:** JavaScript, Typescript, React, GraphQL, CSS, HTML5, Tailwind <br />
-**Back End:** Kotlin, Java, SQL, DynamoDB <br />
+**Back End:** Kotlin, Java, SQL, DynamoDB, Gradle <br />
 **Testing:** JUnit, Jest <br />
 **Developer Tools:** Git, Jira, DataDog, OpsGenie, FireHydrant, Splunk, Postman, SonarQube
 
