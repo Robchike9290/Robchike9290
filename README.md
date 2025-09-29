@@ -1,7 +1,7 @@
 ## About Me 👋
 
 <p align="center" width="100%">
-    <img src="./READMEimages/personalityCard.mp4" width=400> 
+    <img src="./READMEimages/personalityCard.svg" width=400> 
     <p align="left" width="65%">
         I'm a software engineer with 3 years of experience working in the restaurant tech industry.  I've also had an additional 8 years of experience as a civil engineer, giving me deep experience with the construction and land development industries.
         I'm always pushing my boundaries and learning new things, setting goals and working towards them to reach ever higher milestones.
