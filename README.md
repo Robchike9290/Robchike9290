@@ -7,10 +7,10 @@ I'm always pushing my boundaries and learning new things, setting goals and work
 Contact me and follow my journey using the links below!
 
 <p align="center" width="100%">
-    <a href="https://www.linkedin.com/in/Robchike9290">
+    <a href="https://www.linkedin.com/in/robert-czajka2">
           <img src="./READMEimages/linkedin_logo_icon.svg" alt="LinkedIn" width=150 height=50 > 
     </a>
-    <a href="mailto:robchike9290@gmail.com">
+    <a href=mailto:"robchike9290@gmail.com">
       <img src="./READMEimages/communication_email_letter_mail_message_icon.svg" alt="Gmail" width="150" height="50" />
     </a>
     <a href="https://github.com/robchike9290?tab=followers">
