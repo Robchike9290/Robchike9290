@@ -11,10 +11,10 @@ Contact me and follow my journey using the links below!
           <img src="./READMEimages/linkedin_logo_icon.svg" alt="LinkedIn" width=150 height=50 > 
     </a>
     <a href="mailto:anisahmajeed4@gmail.com">
-      <img src="./READMEimages/email_envelope_gmail_letter_logo_icon.svg" alt="Gmail" width="50" height="100" />
+      <img src="./READMEimages/email_envelope_gmail_letter_logo_icon.svg" alt="Gmail" width="150" height="50" />
     </a>
     <a href="https://github.com/yellowstrings?tab=followers">
-      <img src="./READMEimages/github_logo_icon.svg" alt="Follow Me on GitHub" width="150" height="75" />
+      <img src="./READMEimages/github_logo_icon.svg" alt="Follow Me on GitHub" width="150" height="50" />
     </a>
 </p>
 
