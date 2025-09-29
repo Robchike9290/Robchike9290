@@ -24,3 +24,8 @@ Contact me and follow my journey using the links below!
 **Back End:** Kotlin, Java, SQL, DynamoDB <br />
 **Testing:** JUnit, Jest <br />
 **Developer Tools:** Git, Jira, DataDog, OpsGenie, FireHydrant, Splunk, Postman, SonarQube
+
+## GitHub Stats
+
+![Contributions](https://github-readme-stats.vercel.app/api?username=Robchike9290&show_icons=true&theme=black&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robchike9290&theme=black)](https://github.com/Robchike9290/github-readme-stats)
