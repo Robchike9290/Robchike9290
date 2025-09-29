@@ -27,5 +27,5 @@ Contact me and follow my journey using the links below!
 
 ## GitHub Stats
 
-![Contributions](https://github-readme-stats.vercel.app/api?username=Robchike9290&show_icons=true&theme=black&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robchike9290&theme=black)](https://github.com/Robchike9290/github-readme-stats)
+![Contributions](https://github-readme-stats.vercel.app/api?username=Robchike9290&show_icons=true&theme=dracula&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robchike9290&theme=dracula)](https://github.com/Robchike9290/github-readme-stats)
