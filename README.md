@@ -23,4 +23,4 @@ Contact me and follow my journey using the links below!
 **Front End:** JavaScript, Typescript, React, GraphQL, CSS, HTML5, Tailwind <br />
 **Back End:** Kotlin, Java, SQL, DynamoDB <br />
 **Testing:** JUnit, Jest <br />
-**Developer Tools:** Git, Jira, DataDog, OpsGenie, FireHydrant, Splunk, Postman
+**Developer Tools:** Git, Jira, DataDog, OpsGenie, FireHydrant, Splunk, Postman, SonarQube
