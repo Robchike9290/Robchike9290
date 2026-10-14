@@ -3,7 +3,7 @@
 <p align="center" width="100%">
     <img src="./READMEimages/personalityCard.svg" width=500> 
     <p align="left" width="65%">
-        I'm a software engineer with 3 years of experience working in the restaurant tech industry. <br/>
+        I'm a software engineer with 3 years of experience working in the restaurant tech industry and 1 year of experience working in the healthcare industry. <br/>
         <br/>
         I've also had an additional 8 years of experience as a civil engineer, giving me deep experience with the construction and land development industries. <br/>
         <br/>
