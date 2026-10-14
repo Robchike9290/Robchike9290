@@ -29,8 +29,8 @@
 
 **Front End:** JavaScript, Typescript, React, GraphQL, CSS, HTML5, Tailwind <br />
 **Back End:** Kotlin, Java, SQL, DynamoDB, Gradle <br />
-**Testing:** JUnit, Jest <br />
-**Developer Tools:** Git, Jira, DataDog, OpsGenie, FireHydrant, Splunk, Postman, SonarQube
+**Testing:** JUnit, Jest, Vitest <br />
+**Developer Tools:** Git, Jira, DataDog, OpsGenie, FireHydrant, Splunk, Postman, SonarQube, Claude Code
 
 ## GitHub Stats 📈
 
